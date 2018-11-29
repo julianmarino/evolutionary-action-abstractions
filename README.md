@@ -8,7 +8,7 @@ Genetic Algorithm - It is the Genetic Algorithm in truth. Here, you can change v
 
 Scripts - Here, there are all scripts necessary to run the framework in clusters using torque PBS. 
 
-We advise using the folder Configured Sample as support the initial tests. It is fully configured.
+We advise using the folder Configured Sample as support the initial tests. It is fully configured. To run that example in any torque PBS cluster, you need to run the 1runGA.sh and after that 2runSOA.sh. The first script will run the Genetic Algorithm and the second one will perform the microRTS clients to process all matchs. Please, you need to verify all paths inside of these scripts.
 
 For more informations, please look the article:
 Evolving Action Abstractions for Real-Time Planning in Extensive-Form Games
