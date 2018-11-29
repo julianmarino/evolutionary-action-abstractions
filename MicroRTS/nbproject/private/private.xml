@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="8">
+        <file>
+            <url>src/PVAI/PVAIML_NaiveMS.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>108</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/ai/ScriptsGenerator/TableGenerator/TableCommandsGenerator.java</url>
+            <bookmark id="8">
+                <name/>
+                <line>119</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/ai/asymmetric/IDABCD/IDABCDAsymmetric.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>314</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/GAB/SandBox/GABRandom.java</file>
+            <file>file:/home/rubens/MicroRTS/src/util/SOA/RoundRobinClusterLeve.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/SAB/SABRandom.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/GAB/SandBox/GABScriptChoose.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/SAB/SABScriptChoose.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/PGS/PGSSCriptChoiceRandom.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/GAB/SandBox/PGSLimit_ScriptChoose.java</file>
+            <file>file:/home/rubens/MicroRTS/src/util/SOA/SOARoundRobinTOScale.java</file>
+            <file>file:/home/rubens/MicroRTS/src/tests/ClusterTesteLeve_GAB_SAB.java</file>
+            <file>file:/home/rubens/MicroRTS/src/tests/ClusterTesteLeve_GABSAB_3Scr.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/SAB/SSSLimitRandom.java</file>
+            <file>file:/home/rubens/MicroRTS/src/util/SOA/RoundRobinTOScaleTIAMAT.java</file>
+            <file>file:/home/rubens/MicroRTS/src/ai/asymmetric/GAB/SandBox/PGSLimitRandom.java</file>
+        </group>
+    </open-files>
+</project-private>

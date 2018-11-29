@@ -1,0 +1,21 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package ai.CMAB;
+
+import java.util.List;
+import rts.UnitAction;
+import rts.units.Unit;
+
+/**
+ *
+ * @author santi
+ */
+public class CmabAsymClusterUnitActionTableEntry {
+    public Unit u;
+    public int nactions = 0;
+    public List<UnitAction> actions = null;
+    public double[] accum_evaluation = null;
+    public int[] visit_count = null;
+}
