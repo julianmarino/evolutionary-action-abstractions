@@ -1,0 +1,43 @@
+<rts.PhysicalGameState width="8" height="8">
+  <terrain>0000000000000000000000000000000000000000000000000000000000000000</terrain>
+  <players>
+    <rts.Player ID="0" resources="5">
+    </rts.Player>
+    <rts.Player ID="1" resources="5">
+    </rts.Player>
+  </players>
+  <units>
+    <rts.units.Unit type="Light" ID="135" player="0" x="1" y="1" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="136" player="0" x="1" y="2" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="137" player="0" x="1" y="5" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="138" player="0" x="1" y="6" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="139" player="0" x="1" y="4" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="140" player="0" x="1" y="3" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="141" player="0" x="0" y="3" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="142" player="0" x="0" y="4" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="143" player="1" x="7" y="3" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="144" player="1" x="7" y="4" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="146" player="1" x="6" y="3" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="147" player="1" x="6" y="4" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="148" player="1" x="6" y="2" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="149" player="1" x="6" y="1" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="150" player="1" x="6" y="5" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="151" player="1" x="6" y="6" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+  </units>
+</rts.PhysicalGameState>

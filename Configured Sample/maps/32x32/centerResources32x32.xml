@@ -1,0 +1,59 @@
+<rts.PhysicalGameState width="32" height="32">
+  <terrain>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111000000000000000000000000000000010000000000000000000000000000000100000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000010000000000000000000000000000000100000000000000000000000000000001111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</terrain>
+  <players>
+    <rts.Player ID="0" resources="20">
+    </rts.Player>
+    <rts.Player ID="1" resources="20">
+    </rts.Player>
+  </players>
+  <units>
+    <rts.units.Unit type="Resource" ID="165" player="-1" x="0" y="0" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="166" player="-1" x="1" y="0" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="167" player="-1" x="0" y="1" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="168" player="-1" x="1" y="1" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="169" player="-1" x="31" y="31" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="170" player="-1" x="30" y="31" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="171" player="-1" x="30" y="30" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="172" player="-1" x="31" y="30" resources="10" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="173" player="-1" x="16" y="15" resources="30" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="174" player="-1" x="15" y="16" resources="30" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="175" player="-1" x="16" y="16" resources="20" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="176" player="-1" x="15" y="15" resources="20" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="181" player="-1" x="20" y="15" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="182" player="-1" x="20" y="16" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="183" player="-1" x="16" y="20" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="184" player="-1" x="15" y="20" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="185" player="-1" x="11" y="16" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="186" player="-1" x="11" y="15" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="187" player="-1" x="15" y="11" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Resource" ID="188" player="-1" x="16" y="11" resources="1" hitpoints="1" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Base" ID="189" player="0" x="3" y="3" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Base" ID="190" player="1" x="28" y="28" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Barracks" ID="191" player="0" x="5" y="5" resources="0" hitpoints="4" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Barracks" ID="192" player="1" x="26" y="26" resources="0" hitpoints="4" >
+    </rts.units.Unit>
+  </units>
+</rts.PhysicalGameState>

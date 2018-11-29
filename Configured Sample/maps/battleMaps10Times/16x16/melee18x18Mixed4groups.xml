@@ -1,0 +1,83 @@
+<rts.PhysicalGameState width="16" height="16">
+  <terrain>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</terrain>
+  <players>
+    <rts.Player ID="0" resources="0">
+    </rts.Player>
+    <rts.Player ID="1" resources="0">
+    </rts.Player>
+  </players>
+  <units>
+    <rts.units.Unit type="Heavy" ID="170" player="0" x="2" y="1" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="171" player="0" x="2" y="2" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="172" player="0" x="2" y="3" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="173" player="0" x="1" y="3" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="174" player="0" x="1" y="2" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="175" player="0" x="1" y="1" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="176" player="0" x="0" y="3" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="177" player="0" x="0" y="2" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="178" player="0" x="0" y="1" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="179" player="0" x="0" y="14" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="180" player="0" x="0" y="13" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="181" player="0" x="0" y="12" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="182" player="0" x="1" y="12" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="184" player="0" x="1" y="13" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="185" player="0" x="1" y="14" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="186" player="0" x="2" y="12" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="188" player="0" x="2" y="13" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="189" player="0" x="2" y="14" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="202" player="1" x="15" y="14" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="203" player="1" x="15" y="13" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="204" player="1" x="15" y="12" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="205" player="1" x="15" y="1" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="206" player="1" x="15" y="2" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Ranged" ID="207" player="1" x="15" y="3" resources="0" hitpoints="10" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="208" player="1" x="14" y="14" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="209" player="1" x="14" y="13" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="210" player="1" x="14" y="12" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="211" player="1" x="14" y="3" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="212" player="1" x="14" y="2" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Light" ID="213" player="1" x="14" y="1" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="214" player="1" x="13" y="14" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="215" player="1" x="13" y="13" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="216" player="1" x="13" y="12" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="217" player="1" x="13" y="3" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="218" player="1" x="13" y="2" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+    <rts.units.Unit type="Heavy" ID="219" player="1" x="13" y="1" resources="0" hitpoints="40" >
+    </rts.units.Unit>
+  </units>
+</rts.PhysicalGameState>
