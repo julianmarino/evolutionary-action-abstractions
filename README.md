@@ -13,7 +13,7 @@ We advise using the folder Configured Sample as support the initial tests. It is
 For more informations, please look the article:
 
 Evolving Action Abstractions for Real-Time Planning in Extensive-Form Games
-Julian Marino, Rubens O. Moraes, Claudio Toledo, and Levi Lelis
+Julian Mariño, Rubens O. Moraes, Claudio Toledo, and Levi Lelis
 In the Proceedings of the Conference on Artificial Intelligence (AAAI), 2019.
 
 @inproceedings{MarinoMoraesToledoLelis,
